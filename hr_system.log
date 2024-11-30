@@ -1,0 +1,28 @@
+2024-11-30 16:22:44,090 - root - INFO - Êã ÊåíÆÉ ÇáäÙÇã ÈäÌÇÍ
+2024-11-30 16:22:44,422 - AttendanceView - ERROR - ÎØÃ İí ÊÍÏíË ÌÏæá ÇáÍÖæÑ: 'Attendance' object has no attribute 'get_daily_records'
+2024-11-30 16:22:58,898 - DatabaseHandler - ERROR - ÎØÃ İí ÌáÈ ÇáÈíÇäÇÊ: no such table: users
+2024-11-30 16:23:42,084 - DatabaseHandler - ERROR - ÎØÃ İí ÌáÈ ÇáÈíÇäÇÊ: no such table: users
+2024-11-30 16:24:31,477 - root - INFO - Êã ÊåíÆÉ ÇáäÙÇã ÈäÌÇÍ
+2024-11-30 16:24:31,684 - AttendanceView - ERROR - ÎØÃ İí ÊÍÏíË ÌÏæá ÇáÍÖæÑ: 'Attendance' object has no attribute 'get_daily_records'
+2024-11-30 16:24:36,496 - DatabaseHandler - ERROR - ÎØÃ İí ÌáÈ ÇáÈíÇäÇÊ: no such table: users
+2024-11-30 16:26:18,162 - root - INFO - Êã ÊåíÆÉ ÇáäÙÇã ÈäÌÇÍ
+2024-11-30 16:26:18,398 - AttendanceView - ERROR - ÎØÃ İí ÊÍÏíË ÌÏæá ÇáÍÖæÑ: 'Attendance' object has no attribute 'get_daily_records'
+2024-11-30 16:26:30,628 - DatabaseHandler - ERROR - ÎØÃ İí ÌáÈ ÇáÈíÇäÇÊ: no such table: users
+2024-11-30 16:29:23,050 - root - INFO - Êã ÊåíÆÉ ÇáäÙÇã ÈäÌÇÍ
+2024-11-30 16:29:23,295 - AttendanceView - ERROR - ÎØÃ İí ÊÍÏíË ÌÏæá ÇáÍÖæÑ: 'Attendance' object has no attribute 'get_daily_records'
+2024-11-30 16:29:38,100 - AttendanceView - ERROR - ÎØÃ İí ÊÍÏíË ÌÏæá ÇáÍÖæÑ: 'Attendance' object has no attribute 'get_daily_records'
+2024-11-30 16:33:15,741 - root - INFO - Êã ÊåíÆÉ ÇáäÙÇã ÈäÌÇÍ
+2024-11-30 16:33:15,974 - AttendanceView - ERROR - ÎØÃ İí ÊÍÏíË ÌÏæá ÇáÍÖæÑ: 'Attendance' object has no attribute 'get_daily_records'
+2024-11-30 16:33:39,902 - AttendanceView - ERROR - ÎØÃ İí ÊÍÏíË ÌÏæá ÇáÍÖæÑ: 'Attendance' object has no attribute 'get_daily_records'
+2024-11-30 16:38:26,050 - root - INFO - Êã ÊåíÆÉ ÇáäÙÇã ÈäÌÇÍ
+2024-11-30 16:38:26,235 - AttendanceView - ERROR - ÎØÃ İí ÊÍÏíË ÌÏæá ÇáÍÖæÑ: 'Attendance' object has no attribute 'get_daily_records'
+2024-11-30 16:38:38,384 - DatabaseHandler - ERROR - ÎØÃ İí ÌáÈ ÇáÈíÇäÇÊ: no such table: users
+2024-11-30 16:38:44,487 - DatabaseHandler - ERROR - ÎØÃ İí ÌáÈ ÇáÈíÇäÇÊ: no such table: users
+2024-11-30 16:39:32,808 - root - INFO - Êã ÊåíÆÉ ÇáäÙÇã ÈäÌÇÍ
+2024-11-30 16:39:32,998 - AttendanceView - ERROR - ÎØÃ İí ÊÍÏíË ÌÏæá ÇáÍÖæÑ: 'Attendance' object has no attribute 'get_daily_records'
+2024-11-30 16:46:22,698 - root - INFO - Êã ÊåíÆÉ ÇáäÙÇã ÈäÌÇÍ
+2024-11-30 16:46:22,913 - DatabaseHandler - ERROR - ÎØÃ İí ÌáÈ ÇáÈíÇäÇÊ: no such table: attendance
+2024-11-30 16:46:41,840 - root - INFO - Êã ÊåíÆÉ ÇáäÙÇã ÈäÌÇÍ
+2024-11-30 16:47:09,582 - root - INFO - Êã ÊåíÆÉ ÇáäÙÇã ÈäÌÇÍ
+2024-11-30 16:49:21,791 - root - INFO - Êã ÊåíÆÉ ÇáäÙÇã ÈäÌÇÍ
+2024-11-30 16:53:03,193 - root - INFO - Êã ÊåíÆÉ ÇáäÙÇã ÈäÌÇÍ

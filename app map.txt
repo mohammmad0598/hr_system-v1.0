@@ -1,0 +1,42 @@
+hr_system/
+│
+├── config/
+│   ├── __init__.py
+│   └── settings.py                 # إعدادات النظام
+│
+├── database/
+│   ├── __init__.py
+│   └── db_handler.py               # معالج قاعدة البيانات
+│
+├── models/
+│   ├── __init__.py
+│   ├── employee.py                 # نموذج الموظفين
+│   ├── attendance.py               # نموذج الحضور والانصراف
+│   ├── salary.py                   # نموذج الرواتب
+│   └── evaluation.py               # نموذج التقييم
+│
+├── utils/
+│   ├── __init__.py
+│   ├── date_converter.py           # محول التواريخ
+│   ├── notifications.py            # نظام الإشعارات
+│   └── report_generator.py         # منشئ التقارير
+│
+├── ui/
+│   ├── __init__.py
+│   ├── main_window.py              # النافذة الرئيسية
+│   ├── employees_view.py           # واجهة الموظفين
+│   ├── attendance_view.py          # واجهة الحضور
+│   ├── salary_view.py              # واجهة الرواتب
+│   └── evaluation_view.py          # واجهة التقييم
+│
+├── resources/
+│   ├── icons/                      # الأيقونات
+│   │   ├── app_icon.png
+│   │   └── ...
+│   └── styles/                     # ملفات التنسيق
+│       └── main.qss
+│
+├── .env                            # ملف الإعدادات البيئية
+├── requirements.txt                # متطلبات النظام
+├── main.py                         # نقطة بداية البرنامج
+└── hr_system.db                    # قاعدة البيانات

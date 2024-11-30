@@ -1,0 +1,14 @@
+pip install -r requirements.txt
+
+ للبيئة الافتراضية:
+# إنشاء بيئة افتراضية
+python -m venv venv
+
+# تفعيل البيئة الافتراضية
+# على Windows
+venv\Scripts\activate
+# على Linux/Mac
+source venv/bin/activate
+
+# تثبيت المتطلبات
+pip install -r requirements.txt
